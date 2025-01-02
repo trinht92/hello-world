@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+My name is Daniel. I am a new graduate student at Boston University. My major is Data Science. 
